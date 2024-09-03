@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <title>Poem Project</title>
+         <meta charset="UTF-8">
+    </head>
+    <body>
+         <h1>A day at the beach</h1>
+        <p>Para<br><br><br><strong>ings</strong></p>
+         <h2>yesterday I was at the beach soaking in the sun</h2>
+         <h3>I was eating a hot and a seagull stole the bun</h3>
+         <h4>even though the seagull took the bun I was still having fun</h4>
+         <h5>after me and my brother ate we went for a run</h5>
+         <h6>after the run I put on more lotion</h6>
+         <p>then I went for a swim in the ocean</p>
+         <p>after swimming we played paddle ball</p>
+         <p>then we saw a dolphin and it was small</p>
+         <p>then we saw people playing volleyball </p>
+         <p>the people playing were very tall</p>
+        
+    </body>
+</html>
